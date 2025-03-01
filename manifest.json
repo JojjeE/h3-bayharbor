@@ -53,13 +53,13 @@
 				},
 				"spanish": {
 					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_NAME": "Carnicero de la Bahía",
-					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
+					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
 					"UI_CHALLENGES_BAY_HARBOR_BUTCHER_TONIGHTS_THE_NIGHT_NAME": "Esta Noche, Es La Noche",
 					"UI_CHALLENGES_BAY_HARBOR_BUTCHER_TONIGHTS_THE_NIGHT_DESC": "<li>Elimina a un objetivo con un cuchillo con el traje puesto.</li><li>Que no descubran cuerpos.</li>"
 				},
 				"russian": {
 					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_NAME": "Мясника из Бэй-Харбор",
-					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации.",
+					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
 					"UI_CHALLENGES_BAY_HARBOR_BUTCHER_TONIGHTS_THE_NIGHT_NAME": "Сегодня та самая ночь",
 					"UI_CHALLENGES_BAY_HARBOR_BUTCHER_TONIGHTS_THE_NIGHT_DESC": "<li>Убейте цель с помощью ножа, не меняя костюм.</li><li>Тела не должны найти.</li>"
 				}
@@ -96,11 +96,11 @@
 				},
 				"spanish": {
 					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_NAME": "Carnicero de la Bahía",
-					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 				},
 				"russian": {
 					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_NAME": "Мясника из Бэй-Харбор",
-					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+					"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 				}
 			}
 		},
@@ -129,11 +129,11 @@
 						"4086875141": "Bay Harbor-Metzger"
 					},
 					"spanish": {
-						"2741280242": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
+						"2741280242": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
 						"4086875141": "Carnicero de la Bahía"
 					},
 					"russian": {
-						"2741280242": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации.",
+						"2741280242": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
 						"4086875141": "Мясника из Бэй-Харбор"
 					}
 				}
@@ -164,11 +164,11 @@
 						"3648979387": "Bay Harbor-Metzger"
 					},
 					"spanish": {
-						"3346035357": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
+						"3346035357": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
 						"3648979387": "Carnicero de la Bahía"
 					},
 					"russian": {
-						"3346035357": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации.",
+						"3346035357": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
 						"3648979387": "Мясника из Бэй-Харбор"
 					}
 				}
@@ -200,11 +200,11 @@
 					},
 					"spanish": {
 						"1774659088": "Carnicero de la Bahía",
-						"3175901226": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+						"3175901226": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 					},
 					"russian": {
 						"1774659088": "Мясника из Бэй-Харбор",
-						"3175901226": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+						"3175901226": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 					}
 				}
 			}
@@ -235,11 +235,11 @@
 					},
 					"spanish": {
 						"2978719530": "Carnicero de la Bahía",
-						"3533044117": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+						"3533044117": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 					},
 					"russian": {
 						"2978719530": "Мясника из Бэй-Харбор",
-						"3533044117": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+						"3533044117": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 					}
 				}
 			}
@@ -270,11 +270,11 @@
 					},
 					"spanish": {
 						"134957393": "Carnicero de la Bahía",
-						"2101382595": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+						"2101382595": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 					},
 					"russian": {
 						"134957393": "Мясника из Бэй-Харбор",
-						"2101382595": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+						"2101382595": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 					}
 				}
 			}
@@ -304,11 +304,11 @@
 						"2814457931": "Bay Harbor-Metzger"
 					},
 					"spanish": {
-						"2627471231": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
+						"2627471231": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
 						"2814457931": "Carnicero de la Bahía"
 					},
 					"russian": {
-						"2627471231": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации.",
+						"2627471231": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
 						"2814457931": "Мясника из Бэй-Харбор"
 					}
 				}
@@ -340,11 +340,11 @@
 					},
 					"spanish": {
 						"2052724919": "Carnicero de la Bahía",
-						"3635577953": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+						"3635577953": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 					},
 					"russian": {
 						"2052724919": "Мясника из Бэй-Харбор",
-						"3635577953": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+						"3635577953": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 					}
 				}
 			}
@@ -374,11 +374,11 @@
 						"2762453674": "Bay Harbor-Metzger"
 					},
 					"spanish": {
-						"972885031": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
+						"972885031": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
 						"2762453674": "Carnicero de la Bahía"
 					},
 					"russian": {
-						"972885031": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации.",
+						"972885031": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
 						"2762453674": "Мясника из Бэй-Харбор"
 					}
 				}
@@ -410,11 +410,11 @@
 					},
 					"spanish": {
 						"1490534793": "Carnicero de la Bahía",
-						"4241939803": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+						"4241939803": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 					},
 					"russian": {
 						"1490534793": "Мясника из Бэй-Харбор",
-						"4241939803": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+						"4241939803": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 					}
 				}
 			}
@@ -444,11 +444,11 @@
 						"2347383834": "Bay Harbor-Metzger"
 					},
 					"spanish": {
-						"2053833950": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
+						"2053833950": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
 						"2347383834": "Carnicero de la Bahía"
 					},
 					"russian": {
-						"2053833950": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации.",
+						"2053833950": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
 						"2347383834": "Мясника из Бэй-Харбор"
 					}
 				}
@@ -480,11 +480,11 @@
 					},
 					"spanish": {
 						"252086724": "Carnicero de la Bahía",
-						"678625422": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+						"678625422": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 					},
 					"russian": {
 						"252086724": "Мясника из Бэй-Харбор",
-						"678625422": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+						"678625422": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 					}
 				}
 			}
@@ -515,11 +515,11 @@
 					},
 					"spanish": {
 						"3362995256": "Carnicero de la Bahía",
-						"4079878924": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+						"4079878924": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
 					},
 					"russian": {
 						"3362995256": "Мясника из Бэй-Харбор",
-						"4079878924": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации."
+						"4079878924": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки."
 					}
 				}
 			}
@@ -549,11 +549,11 @@
 						"2760943898": "Bay Harbor-Metzger"
 					},
 					"spanish": {
-						"2681050670": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Se completa con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
+						"2681050670": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas.",
 						"2760943898": "Carnicero de la Bahía"
 					},
 					"russian": {
-						"2681050670": "Пробудите в себе внутреннего Темного Пассажира с помощью этой хенли, штанов-карго и ботинок. В комплекте со стильными часами и латексными перчатками на случай кровавой ситуации.",
+						"2681050670": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
 						"2760943898": "Мясника из Бэй-Харбор"
 					}
 				}
