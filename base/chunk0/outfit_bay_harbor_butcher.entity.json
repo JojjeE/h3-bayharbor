@@ -67,9 +67,21 @@
 						"originalEntity": "cafe10a53eff86f2"
 					}
 				],
+				"ConstantVector1D_06_Value": [
+					{
+						"originalProperty": "ConstantVector1D_06_Value",
+						"originalEntity": "cafe10a53eff86f2"
+					}
+				],
 				"ConstantVector1D_13_Value": [
 					{
 						"originalProperty": "ConstantVector1D_13_Value",
+						"originalEntity": "cafe10a53eff86f2"
+					}
+				],
+				"ConstantVector1D_14_Value": [
+					{
+						"originalProperty": "ConstantVector1D_14_Value",
 						"originalEntity": "cafe10a53eff86f2"
 					}
 				],
@@ -261,6 +273,10 @@
 					"type": "IRenderMaterialEntity.EModifierOperation",
 					"value": "eReplace"
 				},
+				"ConstantVector1D_14_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
 				"Diffuse_Hue_Shift_01_Value": {
 					"type": "float32",
 					"value": 0.0
@@ -313,6 +329,10 @@
 				"ConstantVector1D_03_Value": {
 					"type": "float32",
 					"value": 0.5
+				},
+				"ConstantVector1D_06_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
 				},
 				"Clients": {
 					"type": "TArray<SEntityTemplateReference>",
@@ -419,6 +439,122 @@
 					"type": "SEntityTemplateReference",
 					"value": "5b6989e52a010ddb",
 					"postInit": true
+				}
+			}
+		},
+		"cafeaaf7fad852e1": {
+			"parent": "5b6989e52a010ddb",
+			"name": "FX_Hitman_Wet_Logic_Character_01",
+			"factory": "0067CFB703A80787",
+			"blueprint": "00AA88C960CD2080",
+			"properties": {
+				"HeadMaterialToOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "009F7978C601815A",
+						"flag": "5F"
+					}
+				},
+				"HeadMaterialOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["5b6989e52a010ddb"]
+				}
+			},
+			"events": { "HitmanWetness": { "T": [] } }
+		},
+		"cafefdae2f76ff9d": {
+			"parent": "5b6989e52a010ddb",
+			"name": "Suit Diffuse",
+			"factory": "[modules:/zmathlerp.class].pc_entitytype",
+			"blueprint": "[modules:/zmathlerp.class].pc_entityblueprint",
+			"properties": {
+				"m_A": { "type": "float32", "value": 0.5 },
+				"m_fT": { "type": "float32", "value": 0.0 },
+				"m_B": { "type": "float32", "value": 0.38999998569488525 }
+			},
+			"events": {
+				"Lerp": {
+					"ConstantVector1D_01_Value": ["388f543a6c0314b8", "d48ca08c362cf806"]
+				}
+			}
+		},
+		"cafe7b420ed27663": {
+			"parent": "5b6989e52a010ddb",
+			"name": "Suit Normal Bump Scale",
+			"factory": "[modules:/zmathlerp.class].pc_entitytype",
+			"blueprint": "[modules:/zmathlerp.class].pc_entityblueprint",
+			"properties": {
+				"m_A": { "type": "float32", "value": 1.0 },
+				"m_fT": { "type": "float32", "value": 0.0 },
+				"m_B": { "type": "float32", "value": 1.440000057220459 }
+			},
+			"events": {
+				"Lerp": {
+					"ConstantVector1D_06_Value": ["388f543a6c0314b8", "d48ca08c362cf806"]
+				}
+			}
+		},
+		"cafe3dfa418c3bf7": {
+			"parent": "5b6989e52a010ddb",
+			"name": "Min Head",
+			"factory": "[modules:/zmathlerp.class].pc_entitytype",
+			"blueprint": "[modules:/zmathlerp.class].pc_entityblueprint",
+			"properties": {
+				"m_A": { "type": "float32", "value": 0.0 },
+				"m_B": { "type": "float32", "value": 0.30000001192092896 },
+				"m_fT": { "type": "float32", "value": 0.0 }
+			},
+			"events": {
+				"Lerp": {
+					"ConstantVector1D_04_Value": ["c1a5586424ac81ed", "76ee97e63b3eb15a"]
+				}
+			}
+		},
+		"cafe7acd49fa25f0": {
+			"parent": "5b6989e52a010ddb",
+			"name": "Base Min",
+			"factory": "[modules:/zmathlerp.class].pc_entitytype",
+			"blueprint": "[modules:/zmathlerp.class].pc_entityblueprint",
+			"properties": {
+				"m_A": { "type": "float32", "value": 0.0 },
+				"m_B": { "type": "float32", "value": 0.20000000298023224 },
+				"m_fT": { "type": "float32", "value": 0.0 }
+			},
+			"events": {
+				"Lerp": {
+					"ConstantVector1D_04_Value": ["9e65502b7eb4ca51"]
+				}
+			}
+		},
+		"cafec4b8c01a1185": {
+			"parent": "5b6989e52a010ddb",
+			"name": "Base Min 2",
+			"factory": "[modules:/zmathlerp.class].pc_entitytype",
+			"blueprint": "[modules:/zmathlerp.class].pc_entityblueprint",
+			"properties": {
+				"m_A": { "type": "float32", "value": 0.03999999910593033 },
+				"m_B": { "type": "float32", "value": 0.3799999952316284 },
+				"m_fT": { "type": "float32", "value": 0.0 }
+			},
+			"events": {
+				"Lerp": {
+					"ConstantVector1D_14_Value": ["388f543a6c0314b8", "d48ca08c362cf806"]
+				}
+			}
+		},
+		"cafe6385dd952503": {
+			"parent": "5b6989e52a010ddb",
+			"name": "Base Normal Bump Scale",
+			"factory": "[modules:/zmathlerp.class].pc_entitytype",
+			"blueprint": "[modules:/zmathlerp.class].pc_entityblueprint",
+			"properties": {
+				"m_A": { "type": "float32", "value": 1.0 },
+				"m_fT": { "type": "float32", "value": 0.0 },
+				"m_B": { "type": "float32", "value": 1.440000057220459 }
+			},
+			"events": {
+				"Lerp": {
+					"ConstantVector1D_06_Value": ["9e65502b7eb4ca51"]
 				}
 			}
 		}
