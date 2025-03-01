@@ -558,6 +558,38 @@
 					}
 				}
 			}
+		},
+		{
+			"group": "Gloves",
+			"name": "Bay Harbor Butcher",
+			"type": "select",
+			"enabledByDefault": true,
+			"tooltip": "Latex gloves. Default.",
+			"image": "bayharborbutcher.jpg"
+		},
+		{
+			"group": "Gloves",
+			"name": "Darkly Dreaming",
+			"type": "select",
+			"tooltip": "Bare hands.",
+			"image": "darklydreaming.jpg",
+			"contentFolders": ["variant/gloves/darklydreaming"]
+		},
+		{
+			"group": "Gloves",
+			"name": "Driving gloves",
+			"type": "select",
+			"tooltip": "Driving gloves.",
+			"image": "driving.jpg",
+			"contentFolders": ["variant/gloves/driving"]
+		},
+		{
+			"group": "Gloves",
+			"name": "Leather gloves",
+			"type": "select",
+			"tooltip": "Leather gloves.",
+			"image": "leather.jpg",
+			"contentFolders": ["variant/gloves/leather"]
 		}
 	],
 	"updateCheck": "https://github.com/JojjeE/h3-bayharbor/releases/latest/download/updates.json"
