@@ -5,7 +5,7 @@
 	"description": "Channel your inner Dark Passenger with this henley, cargo pants and boots. Complete with stylish watch and latex gloves for when things get bloody.",
 	"authors": ["Jojje"],
 	"frameworkVersion": "2.33.23",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"contentFolders": ["base"],
 	"dependencies": [
 		{

@@ -6,4 +6,4 @@ Channel your inner Dark Passenger with this henley, cargo pants and boots. Compl
 
 ---
 
-`Jojje.BayHarborButcher` v1.0.0, by Jojje. This README was automatically generated from the mod's manifest.
+`Jojje.BayHarborButcher` v1.1.0, by Jojje. This README was automatically generated from the mod's manifest.
