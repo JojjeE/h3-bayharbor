@@ -6,6 +6,7 @@
  */
 
 const { log, LogLevel } = require("@peacockproject/core/loggingInterop")
+const { compare, PEACOCKVERSTRING } = require("@peacockproject/core/utils")
 
 const challenges = [
 	{
@@ -117,15 +118,20 @@ const challenges = [
 ]
 
 module.exports = function BayHarborButcher(controller) {
+	if (!compare || compare(PEACOCKVERSTRING, "8.9.0") === -1) {
+		log(LogLevel.ERROR, `Your version of Peacock (${PEACOCKVERSTRING}) is too old!`, "Bay Harbor Butcher")
+		log(LogLevel.ERROR, "This plugin needs at least version 8.9.0 to run.", "Bay Harbor Butcher")
+		return
+	}
 	controller.hooks.onUserLogin.tap("Bay Harbor Butcher", async (version, userId) => {
 		if (!controller.smf.modEnabledForUser(userId, `Jojje.BayHarborButcher@1.1.1`)) {
-			log(LogLevel.ERROR, "[Bay Harbor Butcher] Mod currently not deployed, please deploy it in SMF.")
+			log(LogLevel.ERROR, "Mod currently not deployed, please deploy it in SMF.", "Bay Harbor Butcher")
 			return
 		}
 		for (const challenge of challenges) {
 			controller.challengeService.registerChallenge(challenge, "assassination", challenge.ParentLocationId, "h3")
 		}
 
-		log(LogLevel.INFO, "[Bay Harbor Butcher] Ready. (Plugin Started)")
+		log(LogLevel.INFO, "Plugin successfully loaded.", "Bay Harbor Butcher")
 	})
 }

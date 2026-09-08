@@ -1,0 +1,15 @@
+{
+	"id": "[assembly:/_pro/characters/assets/individuals/agent47/bayharborbutcher/geometry/bay_harbor_butcher.wl2?/bay_harbor_butcher_henley.weightedprim](bodypart).pc_weightedprim",
+	"type": "PRIM",
+	"references": [
+		"[assembly:/_pro/characters/assets/individuals/agent47/bayharborbutcher/geometry/bay_harbor_butcher.wl2?/bay_harbor_butcher_henley.weightedprim](bodypart).pc_bonerig",
+		{
+			"resource": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_mimosa/materials/male_reg_mimosa_01_sweater_01.mi].pc_mi",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/characters/assets/_apparel/accessories/buttons/materials/buttons_03_shirt.mi].pc_mi",
+			"type": "normal"
+		}
+	]
+}

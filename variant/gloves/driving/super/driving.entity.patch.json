@@ -1,0 +1,36 @@
+{
+	"factory": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_global_bay_harbor_butcher_heroa_v0.entitytemplate].pc_entitytemplate",
+	"blueprint": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_global_bay_harbor_butcher_heroa_v0.entitytemplate].pc_entityblueprint",
+	"patch": [
+		{ "PatchEntity": ["76ee97e63b3eb15a", { "SetName": "Agent47_Gloves_Driving" }] },
+		{
+			"PatchEntity": [
+				"76ee97e63b3eb15a",
+				{
+					"SetFactory": "[assembly:/_pro/characters/templates/_part_library/male_apparel/agent47_apparel.template?/agent47_gloves_driving.entitytemplate].pc_entitytype"
+				}
+			]
+		},
+		{
+			"PatchEntity": [
+				"76ee97e63b3eb15a",
+				{
+					"SetBlueprint": "[assembly:/_pro/characters/templates/_part_library/male_apparel/agent47_apparel.template?/agent47_gloves_driving.entitytemplate].pc_entityblueprint"
+				}
+			]
+		},
+		{
+			"PatchEntity": [
+				"76ee97e63b3eb15a",
+				{
+					"PatchPropertyValue": [
+						"Diffuse_Color_01_Value",
+						{ "Set": { "type": "SColorRGB", "value": "#3b3b3b" } },
+						false
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 7
+}

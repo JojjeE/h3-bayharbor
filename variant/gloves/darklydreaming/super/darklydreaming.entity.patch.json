@@ -1,0 +1,50 @@
+{
+	"factory": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_global_bay_harbor_butcher_heroa_v0.entitytemplate].pc_entitytemplate",
+	"blueprint": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_global_bay_harbor_butcher_heroa_v0.entitytemplate].pc_entityblueprint",
+	"patch": [
+		{ "RemoveEntity": "76ee97e63b3eb15a" },
+		{
+			"PatchEntity": [
+				"5b6989e52a010ddb",
+				{
+					"PatchPropertyValue": [
+						"m_aBodyParts",
+						{
+							"ArrayPatch": [
+								{
+									"type": "remove",
+									"item": [{ "type": "SEntityTemplateReference", "value": "76ee97e63b3eb15a" }, 0]
+								}
+							]
+						},
+						true
+					]
+				}
+			]
+		},
+		{ "PatchEntity": ["cafea93492d2e945", { "SetName": "Arms_Biceps_Hand" }] },
+		{
+			"PatchEntity": [
+				"cafea93492d2e945",
+				{
+					"SetFactory": "[assembly:/_pro/characters/templates/_part_library/male_parts/male_reg_bodyparts.template?/arms_biceps_hand.entitytemplate].pc_entitytype"
+				}
+			]
+		},
+		{
+			"PatchEntity": [
+				"cafea93492d2e945",
+				{
+					"SetBlueprint": "[assembly:/_pro/characters/templates/_part_library/male_parts/male_reg_bodyparts.template?/arms_biceps_hand.entitytemplate].pc_entityblueprint"
+				}
+			]
+		},
+		{
+			"PatchEntity": [
+				"cafe3dfa418c3bf7",
+				{ "RemoveEventConnection": ["Lerp", "ConstantVector1D_04_Value", "76ee97e63b3eb15a"] }
+			]
+		}
+	],
+	"patchVersion": 7
+}

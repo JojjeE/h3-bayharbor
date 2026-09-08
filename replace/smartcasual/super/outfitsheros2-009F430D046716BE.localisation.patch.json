@@ -1,0 +1,21 @@
+{
+	"id": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_hero_s2.sweetmenutext].pc_localized-textlist",
+	"lines": {
+		"CHAR_GLOBAL_HERO_SMARTCASUALOUTFIT_M_PRO170760_NAME_0A199095-A2B6-4F47-B86F-AA1B7976051E": {
+			"english": "Bay Harbor Butcher",
+			"french": "Le Boucher de Bay Harbor",
+			"german": "Bay Harbor-Metzger",
+			"italian": "Il Macellaio di Bay Harbor",
+			"russian": "Мясника из Бэй-Харбор",
+			"spanish": "Carnicero de la Bahía"
+		},
+		"CHAR_GLOBAL_HERO_SMARTCASUALOUTFIT_M_PRO170760_DESCRIPTION_0A199095-A2B6-4F47-B86F-AA1B7976051E": {
+			"english": "Channel your inner Dark Passenger with this henley, cargo pants and boots. Complete with stylish watch and latex gloves for when things get bloody.",
+			"french": "Canalisez Le Passager noir qui sommeille en vous avec ce henley, ce pantalon cargo et ces bottes. Complétez avec une montre élégante et des gants en latex pour les moments les plus sanglants.",
+			"german": "Mit diesem Hemd, der Cargohose und den Stiefeln kannst du deinen inneren Dunklen Passagier verkörpern. Komplett mit stylischer Uhr und Latexhandschuhen, wenn es blutig wird.",
+			"italian": "Sfrutta il Passeggero Oscuro che è in te con questa henley, pantaloni cargo e stivali. Completano il tutto un orologio alla moda e guanti in lattice per le situazioni più cruente.",
+			"russian": "Пробудите своего внутреннего Тёмного Пассажира в этой нательной рубашке, брюках-карго и высоких ботинках. В дополнение идут стильные наручные часы и латексные перчатки — на случай, если придётся запачкать руки.",
+			"spanish": "Canaliza tu Oscuro Pasajero interior con esta camiseta, pantalones cargo y botas. Completo con un elegante reloj y guantes de látex para cuando las cosas se pongan sangrientas."
+		}
+	}
+}
