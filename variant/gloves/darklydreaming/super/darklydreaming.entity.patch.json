@@ -13,7 +13,13 @@
 							"ArrayPatch": [
 								{
 									"type": "remove",
-									"item": [{ "type": "SEntityTemplateReference", "value": "76ee97e63b3eb15a" }, 0]
+									"item": [
+										{
+											"type": "SEntityTemplateReference",
+											"value": "76ee97e63b3eb15a"
+										},
+										0
+									]
 								}
 							]
 						},
@@ -22,7 +28,12 @@
 				}
 			]
 		},
-		{ "PatchEntity": ["cafea93492d2e945", { "SetName": "Arms_Biceps_Hand" }] },
+		{
+			"PatchEntity": [
+				"cafea93492d2e945",
+				{ "SetName": "Arms_Biceps_Hand" }
+			]
+		},
 		{
 			"PatchEntity": [
 				"cafea93492d2e945",
@@ -42,7 +53,13 @@
 		{
 			"PatchEntity": [
 				"cafe3dfa418c3bf7",
-				{ "RemoveEventConnection": ["Lerp", "ConstantVector1D_04_Value", "76ee97e63b3eb15a"] }
+				{
+					"RemoveEventConnection": [
+						"Lerp",
+						"ConstantVector1D_04_Value",
+						"76ee97e63b3eb15a"
+					]
+				}
 			]
 		}
 	],

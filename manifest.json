@@ -60,7 +60,9 @@
 							"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_hero.sweetmenutext?/48ba6b81-9e95-49f6-9562-bd93b4aad385_global_hero_bay_harbor_butcher_m_name_.sweetline].pc_sweetline": "UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_NAME",
 							"[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_hero.sweetmenutext?/48ba6b81-9e95-49f6-9562-bd93b4aad385_global_hero_bay_harbor_butcher_m_description_.sweetline].pc_sweetline": "UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_DESC"
 						},
-						"peacockPlugins": ["replace/addon_challenge/BayHarborButcher.plugin.js"]
+						"peacockPlugins": [
+							"replace/addon_challenge/BayHarborButcher.plugin.js"
+						]
 					}
 				},
 				{
@@ -68,7 +70,10 @@
 					"name": "Peacock Addon (Unlocked)",
 					"description": "Install the suit to your game as an addon without replacing existing suits. Unlocked from the start, you won't need to complete a challenge to use it. This will only work if you're playing with Peacock.",
 					"data": {
-						"contentFolders": ["replace/addon", "replace/addon_nochallenge"],
+						"contentFolders": [
+							"replace/addon",
+							"replace/addon_nochallenge"
+						],
 						"blobFolders": ["blobs/addon"],
 						"localisation": {
 							"UI_TOKEN_OUTFIT_HERO_BAY_HARBOR_BUTCHER_NAME": {

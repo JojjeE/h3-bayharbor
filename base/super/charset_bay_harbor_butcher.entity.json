@@ -33,7 +33,11 @@
 			"properties": {
 				"m_aCharacters": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["11df590b31eceb7a", "19c144ea33db216e", "0b4d0fb64c431e02"],
+					"value": [
+						"11df590b31eceb7a",
+						"19c144ea33db216e",
+						"0b4d0fb64c431e02"
+					],
 					"postInit": true
 				}
 			}
@@ -43,14 +47,24 @@
 			"name": "HeroA",
 			"factory": "[modules:/zcharsetcharactertype.class].pc_entitytype",
 			"blueprint": "[modules:/zcharsetcharactertype.class].pc_entityblueprint",
-			"properties": { "m_aVariations": { "type": "TArray<SEntityTemplateReference>", "value": ["a5767d9501056d40"] } }
+			"properties": {
+				"m_aVariations": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["a5767d9501056d40"]
+				}
+			}
 		},
 		"19c144ea33db216e": {
 			"parent": "f244bfbe56820a37",
 			"name": "Nude",
 			"factory": "[modules:/zcharsetcharactertype.class].pc_entitytype",
 			"blueprint": "[modules:/zcharsetcharactertype.class].pc_entityblueprint",
-			"properties": { "m_aVariations": { "type": "TArray<SEntityTemplateReference>", "value": ["7ec72191f5db8221"] } }
+			"properties": {
+				"m_aVariations": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["7ec72191f5db8221"]
+				}
+			}
 		},
 		"11df590b31eceb7a": {
 			"parent": "f244bfbe56820a37",

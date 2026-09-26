@@ -24,7 +24,12 @@
 				{
 					"PatchPropertyValue": [
 						"m_eSoundFootwearType",
-						{ "Set": { "type": "EHM5SoundFootwearType", "value": "EFWT_BOOTS" } },
+						{
+							"Set": {
+								"type": "EHM5SoundFootwearType",
+								"value": "EFWT_BOOTS"
+							}
+						},
 						false
 					]
 				}
@@ -36,7 +41,12 @@
 				{
 					"PatchPropertyValue": [
 						"m_eOutfitAICategory",
-						{ "Set": { "type": "EOutfitAICategory", "value": "OAC_Fallback" } },
+						{
+							"Set": {
+								"type": "EOutfitAICategory",
+								"value": "OAC_Fallback"
+							}
+						},
 						false
 					]
 				}

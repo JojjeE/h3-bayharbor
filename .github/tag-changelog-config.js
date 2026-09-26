@@ -2,7 +2,10 @@ module.exports = {
 	types: [
 		{ types: ["feat", "feature"], label: "New Features" },
 		{ types: ["fix", "bugfix"], label: "Bug Fixes" },
-		{ types: ["improvement", "improvements", "enhancement"], label: "Improvements" },
+		{
+			types: ["improvement", "improvements", "enhancement"],
+			label: "Improvements",
+		},
 		{ types: ["perf"], label: "Performance Improvements" },
 		{ types: ["build", "ci"], label: "Build System" },
 		{ types: ["refactor"], label: "Refactors" },
@@ -10,6 +13,6 @@ module.exports = {
 		{ types: ["test", "tests"], label: "Tests" },
 		{ types: ["style"], label: "Code Style Changes" },
 		{ types: ["chore"], label: "Chores" },
-		{ types: ["other"], label: "Other Changes" }
-	]
-}
+		{ types: ["other"], label: "Other Changes" },
+	],
+};

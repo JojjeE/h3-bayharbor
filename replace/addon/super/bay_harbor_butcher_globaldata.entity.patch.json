@@ -11,13 +11,34 @@
 					"factory": "[modules:/zglobaloutfitkit.class].pc_entitytype",
 					"blueprint": "[modules:/zglobaloutfitkit.class].pc_entityblueprint",
 					"properties": {
-						"m_eActorType": { "type": "EActorType", "value": "eAT_Hitman" },
-						"m_eSoundFootwearType": { "type": "EHM5SoundFootwearType", "value": "EFWT_BOOTS" },
-						"m_sId": { "type": "ZGuid", "value": "48ba6b81-9e95-49f6-9562-bd93b4aad385" },
-						"m_bCanCallForHelp": { "type": "bool", "value": true },
-						"m_sCommonName": { "type": "ZString", "value": "CHAR_Global_Hero_Bay_Harbor_Butcher_M" },
-						"m_sTitle": { "type": "ZString", "value": "Bay Harbor Butcher" },
-						"m_eOutfitAICategory": { "type": "EOutfitAICategory", "value": "OAC_Fallback" },
+						"m_eActorType": {
+							"type": "EActorType",
+							"value": "eAT_Hitman"
+						},
+						"m_eSoundFootwearType": {
+							"type": "EHM5SoundFootwearType",
+							"value": "EFWT_BOOTS"
+						},
+						"m_sId": {
+							"type": "ZGuid",
+							"value": "48ba6b81-9e95-49f6-9562-bd93b4aad385"
+						},
+						"m_bCanCallForHelp": {
+							"type": "bool",
+							"value": true
+						},
+						"m_sCommonName": {
+							"type": "ZString",
+							"value": "CHAR_Global_Hero_Bay_Harbor_Butcher_M"
+						},
+						"m_sTitle": {
+							"type": "ZString",
+							"value": "Bay Harbor Butcher"
+						},
+						"m_eOutfitAICategory": {
+							"type": "EOutfitAICategory",
+							"value": "OAC_Fallback"
+						},
 						"m_rNameTextResource": {
 							"type": "ZRuntimeResourceID",
 							"value": {
@@ -32,8 +53,14 @@
 								"type": "normal"
 							}
 						},
-						"m_bHeroDisguiseAvailable": { "type": "bool", "value": true },
-						"m_bIsHitmanSuit": { "type": "bool", "value": true },
+						"m_bHeroDisguiseAvailable": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bIsHitmanSuit": {
+							"type": "bool",
+							"value": true
+						},
 						"m_aCharSets": {
 							"type": "TArray<SEntityTemplateReference>",
 							"value": ["cafe99612b5da271"],
@@ -51,7 +78,12 @@
 					"name": "Keyword_FOLEY_VR_OUTFIT_LEATHERGLOVES",
 					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keyword_foley_vr_outfit_leathergloves.entitytemplate].pc_entitytype",
 					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keyword_foley_vr_outfit_leathergloves.entitytemplate].pc_entityblueprint",
-					"properties": { "m_rHolder": { "type": "SEntityTemplateReference", "value": "cafe9a59025e8dd5" } }
+					"properties": {
+						"m_rHolder": {
+							"type": "SEntityTemplateReference",
+							"value": "cafe9a59025e8dd5"
+						}
+					}
 				}
 			]
 		},
@@ -75,7 +107,10 @@
 					"factory": "[assembly:/_pro/design/actor/profession.template?/prof_agent47.entitytemplate].pc_entitytype",
 					"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_agent47.entitytemplate].pc_entityblueprint",
 					"properties": {
-						"m_aHolders": { "type": "TArray<SEntityTemplateReference>", "value": ["cafe9a59025e8dd5"] }
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe9a59025e8dd5"]
+						}
 					}
 				}
 			]
@@ -89,7 +124,10 @@
 					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordgenericprofessionclasses.template?/keyword_prof_class_default.entitytemplate].pc_entitytype",
 					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordgenericprofessionclasses.template?/keyword_prof_class_default.entitytemplate].pc_entityblueprint",
 					"properties": {
-						"m_aHolders": { "type": "TArray<SEntityTemplateReference>", "value": ["cafe9a59025e8dd5"] }
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe9a59025e8dd5"]
+						}
 					}
 				}
 			]
@@ -103,7 +141,10 @@
 					"factory": "[assembly:/_pro/design/actor/profession.template?/prof_hero_signaturesuit.entitytemplate].pc_entitytype",
 					"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_hero_signaturesuit.entitytemplate].pc_entityblueprint",
 					"properties": {
-						"m_aHolders": { "type": "TArray<SEntityTemplateReference>", "value": ["cafe9a59025e8dd5"] }
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe9a59025e8dd5"]
+						}
 					}
 				}
 			]
