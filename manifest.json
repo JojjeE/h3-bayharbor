@@ -68,7 +68,7 @@
 				{
 					"id": "install-peacock",
 					"name": "Peacock Addon (Unlocked)",
-					"description": "Install the suit to your game as an addon without replacing existing suits. Unlocked from the start, you won't need to complete a challenge to use it. This will only work if you're playing with Peacock.",
+					"description": "Install the suit to your game as an addon without replacing existing suits. Unlocked from the start, you won't need to complete a challenge to use it. This will only work if you're playing with Peacock, or offline.",
 					"data": {
 						"contentFolders": [
 							"replace/addon",
