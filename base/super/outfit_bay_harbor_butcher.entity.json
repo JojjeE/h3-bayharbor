@@ -686,7 +686,6 @@
 			"resource": "[assembly:/_pro/characters/assets/hero/agent47/textures/male_reg_agent47_sapienza_glasses_01.texture?/diffuse_a.tex](ascolormap).pc_tex",
 			"type": "normal"
 		},
-		{ "resource": "00347635925C9275", "type": "normal" },
 		{
 			"resource": "[assembly:/_pro/characters/assets/hero/agent47/textures/male_reg_agent47_sapienza_glasses_01.texture?/specular_a.tex](ascolormap).pc_tex",
 			"type": "normal"

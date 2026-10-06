@@ -4,7 +4,7 @@
 	"description": "Channel your inner Dark Passenger with this henley, cargo pants and boots. Complete with stylish watch and latex gloves for when things get bloody.",
 	"authors": ["Jojje"],
 	"version": "1.1.1",
-	"frameworkVersion": "3.0.0",
+	"frameworkVersion": "3.0.0-rc.4",
 	"url": "https://github.com/JojjeE/h3-bayharbor",
 	"conditions": { "supportedGames": ["h3"] },
 	"data": { "contentFolders": ["base"] },
